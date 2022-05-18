@@ -1,0 +1,26 @@
+body{
+margin: 0;
+background-color: aquamarine;
+}
+.container {
+text-align: center;
+}
+h1 {
+color: black;
+background-color: transparent;
+}
+.jumbotron {
+background-color: white;
+}
+.row:hover {
+background-color: grey;
+color: white;
+}
+.row {
+font-size: 25px;
+}
+.image{
+    height: 300px;
+    width: 300px;
+    /* border-radius: 50%; */
+}
